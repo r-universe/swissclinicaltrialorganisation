@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "powergrid"]
+	path = powergrid
+	url = https://github.com/swissclinicaltrialorganisation/powergrid
 [submodule "secuTrialR"]
 	path = secuTrialR
 	url = https://github.com/swissclinicaltrialorganisation/secutrialr
